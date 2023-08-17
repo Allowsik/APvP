@@ -1,0 +1,4 @@
+name: APvP
+version: '${project.version}'
+main: pl.allowsik.apvp.APvP
+api-version: 1.19
