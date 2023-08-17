@@ -2,3 +2,9 @@ name: APvP
 version: '${project.version}'
 main: pl.allowsik.apvp.APvP
 api-version: 1.19
+author: Allowsik
+description: A PvP plugin for Minecraft
+commands:
+  aping:
+    description: Ping command
+    aliases: []
